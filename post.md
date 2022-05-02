@@ -1,4 +1,4 @@
-This is an H1
+title:  "github.io 블로그  첫 글"
 =============
-This is an H2
+excerpt: "github.io 블로그 첫 글 작성해봅니다."
 -------------
