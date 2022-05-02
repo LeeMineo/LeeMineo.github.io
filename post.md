@@ -12,3 +12,6 @@ excerpt: "github.io 블로그 첫 글 작성해봅니다."
 >>> 마지막 수정 시간은 {{ page.last_modified_at }}이다.
 
 ##### 내 깃허브 링크: <https://github.com/LeeMineo>
+
+##### 이미지를 누르면 제 깃허브 페이지로 이동합니다
+![일라 프로필](https://user-images.githubusercontent.com/103713510/166186256-e1bc7bbe-75f4-4021-8878-41f4afa556f6.jpg)(https://github.com/LeeMineo)
