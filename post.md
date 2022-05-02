@@ -11,4 +11,4 @@ excerpt: "github.io 블로그 첫 글 작성해봅니다."
 >> 이 글의 제목은 {{ page.title }}이고
 >>> 마지막 수정 시간은 {{ page.last_modified_at }}이다.
 
-# 내 깃허브 링크: <>
+##### 내 깃허브 링크: <https://github.com/LeeMineo>
