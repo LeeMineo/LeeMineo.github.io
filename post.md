@@ -15,4 +15,4 @@ excerpt: "github.io 블로그 첫 글 작성해봅니다."
 
 ##### 이미지를 누르면 제 깃허브 페이지로 이동합니다
 
-[![고양이(https://user-images.githubusercontent.com/103713510/166186256-e1bc7bbe-75f4-4021-8878-41f4afa556f6.jpg)]](https://github.com/LeeMineo)
+[![고양이](https://user-images.githubusercontent.com/103713510/166186256-e1bc7bbe-75f4-4021-8878-41f4afa556f6.jpg)](https://github.com/LeeMineo)
